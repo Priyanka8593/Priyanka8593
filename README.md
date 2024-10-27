@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋  I'm Priyanka
 
-<!--
-**Priyanka8593/Priyanka8593** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a Data Analyst dedicated to transforming complex datasets into clear, actionable insights. Proficient in Excel, Power BI, SQL, and Python. I aim to blend technical skills with business insight to create impactful solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Skills
+
+    Excel
+    Power BI
+    SQL
+    Python
+
+🔗 Useful Links
