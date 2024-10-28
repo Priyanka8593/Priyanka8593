@@ -1,7 +1,7 @@
 https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
 <h1 align="center">Hi 👋, I'm Priyanka</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a Data Analyst dedicated to transforming complex datasets into clear, actionable insights. Proficient in Excel, Power BI, SQL, and Python. I aim to blend technical skills with business insight to create impactful solutions.</h3>
-<img align="right" alt="coding" width="40" src=(https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)"
+<img align="right" alt="coding" width="40" src="(https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka8593&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka8593" /> </p>
 
