@@ -1,4 +1,4 @@
-https://tenor.com/view/coding-girl-gif-2332171326726785246
+(https://tenor.com/view/coding-gif-4706460855862906629)
 <h1 align="center">Hi 👋, I'm Priyanka</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a Data Analyst dedicated to transforming complex datasets into clear, actionable insights. Proficient in Excel, Power BI, SQL, and Python. I aim to blend technical skills with business insight to create impactful solutions.</h3>
 
