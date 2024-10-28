@@ -8,9 +8,9 @@ https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
 - 
 - 🛠 Skills
 
-    Excel
-    Power BI
-    SQL
+    Excel,
+    Power BI,
+    SQL,
     Python
 
 
