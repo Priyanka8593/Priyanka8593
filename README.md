@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Priyanka</h1>
+<h1 align="center">Hi 👋, I'm Priyanka Patil</h1>
 <h3 align="center">Welcome to my GitHub!
 
-I'm an accounting and finance professional with hands-on experience in Accounts Payable, Accounts Receivable, bank reconciliations, invoicing, and month-end support. I'm currently completing my Certificate IV in Accounting and Bookkeeping while continuously building my technical skills in SQL, Excel, and Power BI.
+I'm an accounting and finance professional with hands-on experience in Accounts Payable, Accounts Receivable, bank reconciliations, invoicing, and month-end support. I'm currently completing my Certificate IV in Accounting and Bookkeeping while expanding my technical skills in SQL, Excel, and Power BI.
 
-My passion is combining accounting knowledge with data analytics to develop financial reporting solutions that help businesses make informed decisions..</h3>
+I'm passionate about combining accounting knowledge with data analytics to build financial reporting solutions that support informed business decisions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka8593&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka8593" /> </p>
 
