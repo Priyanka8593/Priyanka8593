@@ -27,7 +27,11 @@ My passion is combining accounting knowledge with data analytics to develop fina
 - Cash Flow & Budget vs Actual Analysis
 - Accounts Payable & Accounts Receivable Analytics
 
+📫 Contact
 
+📧 Email: rani8593@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/priyanka-patil-388765167
 
 
 <h3 align="left">Connect with me:</h3>
