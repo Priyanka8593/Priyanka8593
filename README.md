@@ -4,7 +4,7 @@
 I'm an accounting and finance professional with hands-on experience in Accounts Payable, Accounts Receivable, bank reconciliations, invoicing, and month-end support. I'm currently completing my Certificate IV in Accounting and Bookkeeping while continuously building my technical skills in SQL, Excel, and Power BI.
 
 My passion is combining accounting knowledge with data analytics to develop financial reporting solutions that help businesses make informed decisions..</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/d9345cf125520bf5ddc510bd1c3fcd5813d69fb55e7af04ad1d7b1054a0a161e/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313230302f302a64492d6f384833693077363653704b372e676966"
+d9345cf125520bf5ddc510bd1c3fcd5813d69fb55e7af04ad1d7b1054a0a161e/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313230302f302a64492d6f384833693077363653704b372e676966"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka8593&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka8593" /> </p>
 
