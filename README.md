@@ -12,11 +12,26 @@ My passion is combining accounting knowledge with data analytics to develop fina
 
 - 🛠 Skills
 
-    Excel,
-    Power BI,
-    SQL,
-    Python
+    Accounting & Bookkeeping
+Advanced Excel
+Power BI
+SQL
+Power Query
+DAX
+MYOB EXO
+Xero
+SAP
 
+📊 Current Focus
+Financial Reporting
+Management Dashboards
+Budget vs Actual Analysis
+Cash Flow Reporting
+Accounts Payable & Accounts Receivable Analytics
+Business Performance Analysis
+
+🎯 Career Goal
+To grow as an Assistant Accountant and Finance Officer while developing expertise in financial reporting, business intelligence, and financial analysis.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
