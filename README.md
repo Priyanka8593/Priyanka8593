@@ -22,16 +22,13 @@ My passion is combining accounting knowledge with data analytics to develop fina
 - SAP
 
 📊 Current Focus
-- Financial Reporting
-- Management Dashboards
-- Budget vs Actual Analysis
-- Cash Flow Reporting
+- Finance Analytics with SQL, Excel & Power BI
+- Financial Reporting Dashboards
+- Cash Flow & Budget vs Actual Analysis
 - Accounts Payable & Accounts Receivable Analytics
-- Business Performance Analysis
 
-🎯 Career Goal
 
-To grow as an Assistant Accountant and Finance Officer while developing expertise in financial reporting, business intelligence, and financial analysis.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
