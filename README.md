@@ -12,15 +12,15 @@ My passion is combining accounting knowledge with data analytics to develop fina
 
 - 🛠 Skills
 
-    Accounting & Bookkeeping
-Advanced Excel
-Power BI
-SQL
-Power Query
-DAX
-MYOB EXO
-Xero
-SAP
+- Accounting & Bookkeeping
+- Advanced Excel
+- Power BI
+- SQL
+- Power Query
+- DAX
+- MYOB EXO
+- Xero
+- SAP
 
 📊 Current Focus
 Financial Reporting
